@@ -7,4 +7,8 @@ minimum spanning tree, or enter their own constraints and objective function to 
 
 This project focuses heavily on the implementation of various aspects of mathematics, from linear programming to graph theory.
 
+[ProjectReport.pdf](https://github.com/user-attachments/files/22068875/ProjectReport.pdf)
+
 -Adi
+
+
